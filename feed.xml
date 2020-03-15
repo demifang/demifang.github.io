@@ -6,15 +6,22 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Mar 2020 13:32:47 -0400</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2020 13:32:47 -0400</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2020 14:09:26 -0400</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2020 14:09:26 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Timber Joinery</title>
+        <title>Mechanical behavior of timber joinery</title>
         <description>&lt;p&gt;Timber is increasingly used as a structural material. However, connections typically use steel rather than all-timber interlocking joinery connections as seen in historic timber construction. What is the potential to re-apply joinery to modern timber construction, given modern fabrication and analysis techniques?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/Timber-Joinery/Timber-joinery.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Timber-Joinery/Timber-joinery.png&quot; alt=&quot;&quot; /&gt;
+Image composed by collaborators Aliz Fischer and Jan Brütting.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Team collaborators:&lt;/b&gt; &lt;a href=&quot;https://www.epfl.ch/labs/sxl/&quot;&gt;Structural Xploration Lab&lt;/a&gt; at EPFL (Jan Brütting, Corentin Fivet), &lt;a href=&quot;https://www.arup.com/expertise/services/technical-consulting/advanced-technology-and-research&quot;&gt;AT+R&lt;/a&gt; at Arup San Francisco (Aliz Fischer, Benshun Shao, Nick Sherrow-Groves, Julieta Moradei), &lt;a href=&quot;digitalstructures.mit.edu&quot;&gt;Digital Structures&lt;/a&gt; at MIT (Demi Fang, Caitlin Mueller, Daniel Landez)&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Master’s thesis (anticipated May 2020).&lt;/p&gt;
 
 &lt;p&gt;D. L. Fang and C. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/326674720_Joinery_connections_in_timber_frames_analytical_and_experimental_explorations_of_structural_behavior&quot;&gt;Joinery connections in timber frames: analytical and experimental explorations of structural behavior&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Cambridge, MA, USA, July 2018.&lt;/p&gt;
 
@@ -22,9 +29,9 @@
 
 &lt;p&gt;D. L. Fang, J. Moradei, J. Brütting, A. Fischer, D. K. Landez, B. Shao, N. Sherrow-Groves, C. Fivet, and C. T. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/336474081_Modern_timber_design_approaches_for_traditional_Japanese_architecture_analytical_experimental_and_numerical_approaches_for_the_Nuki_joint&quot;&gt;Modern timber design approaches for traditional Japanese architecture: analytical, experimental, and numerical approaches for the Nuki joint&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Barcelona, Spain, October 2019.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-        <link>demifang21.github.io/2019/01/01/Timber-Joinery/</link>
-        <guid isPermaLink="true">demifang21.github.io/2019/01/01/Timber-Joinery/</guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
+        <link>demifang21.github.io/2020/03/01/Timber-Joinery/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/03/01/Timber-Joinery/</guid>
         
         <category>timber</category>
         
@@ -38,7 +45,54 @@
       </item>
     
       <item>
-        <title>Multi-objective Greenhouse Design</title>
+        <title>Timber-concrete composite floor systems</title>
+        <description>&lt;p&gt;Vibration analysis models for the timber-concrete composite floor system.&lt;/p&gt;
+
+&lt;p&gt;More information on the system available at &lt;b&gt;&lt;a href=&quot;https://www.architectmagazine.com/technology/som-tests-a-mass-timber-composite-system-for-high-rise-construction-and-explores-a-steel-option_o&quot;&gt;here&lt;/a&gt;&lt;/b&gt; and at the &lt;b&gt;&lt;a href=&quot;https://www.som.com/ideas/research/timber_tower_research_project&quot;&gt;SOM Timber Tower Research Project&lt;/a&gt;&lt;/b&gt;. Image by SOM.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2019/05/01/TMBR/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/05/01/TMBR/</guid>
+        
+        <category>structural performance</category>
+        
+        <category>timber</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Parametric model of bracing and node geometry</title>
+        <description>&lt;p&gt;This mid-rise office building features SOM’s signature high-waisted brace for its lateral system, with its center node lifted vertically to achieve efficiency in load path. This project features an additional geometric feature: the center nodes kink out of plane, with a hinge detail to enable breathing under undesired symmetric load. A detailed parametric model of the bracing geometry and its nodes was developed to keep up with architectural and structural design changes throughout design development. The model was also used to generate detail drawings for steel fabrication.&lt;/p&gt;
+
+&lt;p&gt;More information available at &lt;b&gt;&lt;a href=&quot;https://www.som.com/projects/800_west_fulton_market&quot;&gt;SOM&lt;/a&gt;&lt;/b&gt;. Image by SOM.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2019/04/01/800WFM/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/04/01/800WFM/</guid>
+        
+        <category>computational design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Structural systems for the Charenton-Bercy tower</title>
+        <description>&lt;p&gt;Early-stage evaluation of several options for structural systems for a skyscraper. Effects on material weight and embodied carbon were studied. More information available at &lt;b&gt;&lt;a href=&quot;https://www.som.com/news/in_paris_an_international_team_will_lead_the_charenton-bercy_redevelopment_project&quot;&gt;SOM&lt;/a&gt;&lt;/b&gt;. Image by SOM.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+        <link>demifang21.github.io/2019/02/01/Charenton-Bercy/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/02/01/Charenton-Bercy/</guid>
+        
+        <category>computational design</category>
+        
+        <category>structural performance</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Multi-objective greenhouse design</title>
         <description>&lt;p&gt;We were tasked with designing a greenhouse for hobby-level vegetable gardening in Portola Valley, CA that would be as passive as possible.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/Greenhouse/geomvars_designspace.jpg&quot; alt=&quot;Geometric variables&quot; /&gt;&lt;/p&gt;
@@ -48,6 +102,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/Greenhouse/WWRvars_designspace.jpg&quot; alt=&quot;WWR variables&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Selected for poster competition at C3E Women in Clean Energy Symposium 2018, Stanford University.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publication:&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;D. L. Fang, A. Arsano, N. Brown, C. Reinhart, C. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/336473989_Design_space_exploration_for_high-performance_greenhouse_design&quot;&gt;Design space exploration for high-performance greenhouse design&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Barcelona, Spain, October 2019.&lt;/p&gt;
 </description>
@@ -111,7 +167,7 @@
       </item>
     
       <item>
-        <title>Masonry Stability</title>
+        <title>Masonry stability</title>
         <description>&lt;p&gt;Discrete element modeling (DEM) is a numerical analysis method only recently applied to assessing the stability of masonry structures, where each masonry element is represented by a discrete element. How do DEM results compare to thrust line analysis, a more traditional analysis method?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/Masonry-Stability/testStabilityGroin012.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -143,7 +199,7 @@ David W. Carmichael Prize, Princeton CEE&lt;/p&gt;
       </item>
     
       <item>
-        <title>Folded Plate Structures</title>
+        <title>Folded plate structures</title>
         <description>&lt;p&gt;What is the potential for folded plate structures to serve as a structurally optimized architectural typology?&lt;/p&gt;
 
 &lt;p&gt;Get the Grasshopper definition on &lt;b&gt;&lt;a href=&quot;https://github.com/demifang/Folded-Plate-Structures&quot;&gt;Github&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;

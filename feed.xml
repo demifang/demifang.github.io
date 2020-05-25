@@ -6,9 +6,30 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Mar 2020 14:09:26 -0400</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2020 14:09:26 -0400</lastBuildDate>
+    <pubDate>Mon, 25 May 2020 10:43:34 -0400</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 10:43:34 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sustainability of joinery in modern timber construction</title>
+        <description>&lt;p&gt;Timber is increasingly used as a structural material. However, connections typically use steel rather than all-timber interlocking joinery connections as seen in historic timber construction. What quantifiable benefits might be associated with switching from metallic fastener connections to all-timber joinery connections?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Timber-Joinery/EC comparison_EC comparison_small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;D. Fang, “Timber joinery in modern construction: Mechanical behavior of wood-wood connections,” M.S., Massachusetts Institute of Technology, Cambridge, MA, USA, 2020.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 May 2020 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</guid>
+        
+        <category>timber</category>
+        
+        <category>sustainability</category>
+        
+        
+      </item>
     
       <item>
         <title>Mechanical behavior of timber joinery</title>
@@ -17,11 +38,11 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/Timber-Joinery/Timber-joinery.png&quot; alt=&quot;&quot; /&gt;
 Image composed by collaborators Aliz Fischer and Jan Brütting.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team collaborators:&lt;/b&gt; &lt;a href=&quot;https://www.epfl.ch/labs/sxl/&quot;&gt;Structural Xploration Lab&lt;/a&gt; at EPFL (Jan Brütting, Corentin Fivet), &lt;a href=&quot;https://www.arup.com/expertise/services/technical-consulting/advanced-technology-and-research&quot;&gt;AT+R&lt;/a&gt; at Arup San Francisco (Aliz Fischer, Benshun Shao, Nick Sherrow-Groves, Julieta Moradei), &lt;a href=&quot;digitalstructures.mit.edu&quot;&gt;Digital Structures&lt;/a&gt; at MIT (Demi Fang, Caitlin Mueller, Daniel Landez)&lt;/p&gt;
+&lt;p&gt;Team collaborators: &lt;a href=&quot;https://www.epfl.ch/labs/sxl/&quot;&gt;Structural Xploration Lab&lt;/a&gt; at EPFL (Jan Brütting, Prof. Corentin Fivet), &lt;a href=&quot;https://www.arup.com/expertise/services/technical-consulting/advanced-technology-and-research&quot;&gt;AT+R&lt;/a&gt; at Arup San Francisco (Aliz Fischer, Benshun Shao, Nick Sherrow-Groves, Julieta Moradei), &lt;a href=&quot;digitalstructures.mit.edu&quot;&gt;Digital Structures&lt;/a&gt; at MIT (Demi Fang, Prof. Caitlin Mueller, Daniel Landez)&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Master’s thesis (anticipated May 2020).&lt;/p&gt;
+&lt;p&gt;D. Fang, “Timber joinery in modern construction: Mechanical behavior of wood-wood connections,” M.S., Massachusetts Institute of Technology, Cambridge, MA, USA, 2020.&lt;/p&gt;
 
 &lt;p&gt;D. L. Fang and C. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/326674720_Joinery_connections_in_timber_frames_analytical_and_experimental_explorations_of_structural_behavior&quot;&gt;Joinery connections in timber frames: analytical and experimental explorations of structural behavior&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Cambridge, MA, USA, July 2018.&lt;/p&gt;
 
@@ -29,9 +50,9 @@ Image composed by collaborators Aliz Fischer and Jan Brütting.&lt;/p&gt;
 
 &lt;p&gt;D. L. Fang, J. Moradei, J. Brütting, A. Fischer, D. K. Landez, B. Shao, N. Sherrow-Groves, C. Fivet, and C. T. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/336474081_Modern_timber_design_approaches_for_traditional_Japanese_architecture_analytical_experimental_and_numerical_approaches_for_the_Nuki_joint&quot;&gt;Modern timber design approaches for traditional Japanese architecture: analytical, experimental, and numerical approaches for the Nuki joint&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Barcelona, Spain, October 2019.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
-        <link>demifang21.github.io/2020/03/01/Timber-Joinery/</link>
-        <guid isPermaLink="true">demifang21.github.io/2020/03/01/Timber-Joinery/</guid>
+        <pubDate>Fri, 08 May 2020 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2020/05/08/Timber-Joinery-Mech/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/05/08/Timber-Joinery-Mech/</guid>
         
         <category>timber</category>
         
@@ -40,6 +61,50 @@ Image composed by collaborators Aliz Fischer and Jan Brütting.&lt;/p&gt;
         <category>structural performance</category>
         
         <category>optimization</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pluma</title>
+        <description>&lt;p&gt;With a design framework applicable to any site in the world, the Pluma installation envisions a lightweight future where structures generate more energy than they embody. Earned &lt;a href=&quot;https://www.surrey.ac.uk/news/winning-spatial-structure-design-symbolises-butterfly-effect&quot;&gt;honorable mention at the IASS 2020 Design Competition&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Pluma/Render2.png&quot; alt=&quot;&quot; /&gt;
+Render by collaborator Mohamed Ismail.&lt;/p&gt;
+
+&lt;p&gt;Pluma demonstrates how form can follow function across disciplines and performance metrics. The design features photovoltaic membranes suspended in a lightweight cable system, resembling a flock of birds in flight.&lt;/p&gt;
+
+&lt;p&gt;The shape and orientation of the membrane ensemble is precisely tuned by an optimization algorithm to maximize solar radiation exposure and power generation on the site in Surrey.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Pluma/animation.gif&quot; alt=&quot;&quot; /&gt;{width=”400px”}
+&lt;img src=&quot;/assets/images/Pluma/Design_Space.png&quot; alt=&quot;&quot; /&gt;
+Images by Demi Fang and Caitlin Mueller.&lt;/p&gt;
+
+&lt;p&gt;Its supporting frame consists of standard timber elements assembled into cruciform sections, with simple, repeated connection details that are cost-effective. The foundation is a concrete slab hollowed out with compressed sawdust blocks as lost formwork, reducing the embodied energy compared to a typical slab by half.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Pluma/Details.png&quot; alt=&quot;&quot; /&gt;
+Drawings by collaborators Eduardo Gascon and Paul Mayencourt.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Team collaborators:&lt;/b&gt; Demi Fang, Eduardo Gascon, Mohamed Ismail, Paul Mayencourt, Prof. Caitlin Mueller, Ramon Weber (&lt;a href=&quot;digitalstructures.mit.edu&quot;&gt;Digital Structures&lt;/a&gt; at MIT)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Pluma/Render1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/Pluma/Render3.png&quot; alt=&quot;&quot; /&gt;
+Renders by collaborator Mohamed Ismail.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
+        <link>demifang21.github.io/2020/02/28/Pluma/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/02/28/Pluma/</guid>
+        
+        <category>timber</category>
+        
+        <category>computational design</category>
+        
+        <category>structural performance</category>
+        
+        <category>optimization</category>
+        
+        <category>design space</category>
         
         
       </item>

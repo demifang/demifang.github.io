@@ -6,9 +6,34 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Aug 2020 11:27:50 -0400</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2020 11:27:50 -0400</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2020 20:49:56 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2020 20:49:56 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Variations on a quadratic function: dimensionality reduction</title>
+        <description>&lt;p&gt;Tasked with producing a design space of mathematical functions that are smooth, differentiable, and concave down on the x-y domain, a 9-dimensional variable space of transformations on a paraboloid is constructed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/quadratic/transformations-animate.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A sample is produced from the 9-dimensional variable space, and t-SNE is applied to produce a 2-dimensional embedding of the space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/quadratic/tSNE-3-bubbles-01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/quadratic/tSNE-3-bubbles-03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Final project for 4.453 Creative Machine Learning for Design, Spring 2020.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Aug 2020 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2020/08/31/Quadratic/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/08/31/Quadratic/</guid>
+        
+        <category>computational design</category>
+        
+        <category>machine learning</category>
+        
+        
+      </item>
     
       <item>
         <title>Sustainability of joinery in modern timber construction</title>

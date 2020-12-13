@@ -6,9 +6,34 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Nov 2020 11:18:13 -0500</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2020 11:18:13 -0500</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2020 16:05:10 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 16:05:10 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>TopEval: flow-informed topology design</title>
+        <description>&lt;p&gt;One strategy for efficient structural design is to place material where it is most needed. Often, this structural demand can be visualized using a vector field across a continuum domain. For example, in the case of a beam under vertical point loads, the vector field of principal stress lines may inform a truss design across the same continuum domain (Allen and Zalewski 2010). Alternatively, in the case of a floor system under uniformly distributed load, the vector field of principal bending moment may inform a topology of floor ribs (Gatti Wool Factory, 1953, by Pier Luigi Nervi).&lt;/p&gt;
+
+&lt;p&gt;Both instances demonstrate the value of a metric that summarizes a topology’s conformity with a given stress field in early-stage structural design. While structural topologies might conventionally be evaluated using structural analysis, this approach is a geometric one. TopEval is a Grasshopper component that calculates a topology’s conformity to a vector field, enabling live feedback during design. With TopEval and an effective visualization workflow, designers can both compare and improve structural topologies during early-stage design without the need for iterative structural analysis.&lt;/p&gt;
+
+&lt;p&gt;(Page under construction)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Final project for GSD6338 Introduction to Computational Design, Fall 2020.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Dec 2020 00:00:00 -0500</pubDate>
+        <link>demifang21.github.io/2020/12/11/Flow-topology/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/12/11/Flow-topology/</guid>
+        
+        <category>computational design</category>
+        
+        <category>structural performance</category>
+        
+        
+      </item>
     
       <item>
         <title>Variations on a quadratic function: dimensionality reduction</title>

@@ -6,8 +6,8 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Dec 2020 16:05:10 -0500</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2020 16:05:10 -0500</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2020 16:50:41 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 16:50:41 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,11 +16,11 @@
 
 &lt;p&gt;Both instances demonstrate the value of a metric that summarizes a topology’s conformity with a given stress field in early-stage structural design. While structural topologies might conventionally be evaluated using structural analysis, this approach is a geometric one. TopEval is a Grasshopper component that calculates a topology’s conformity to a vector field, enabling live feedback during design. With TopEval and an effective visualization workflow, designers can both compare and improve structural topologies during early-stage design without the need for iterative structural analysis.&lt;/p&gt;
 
-&lt;p&gt;(Page under construction)&lt;/p&gt;
+&lt;iframe width=&quot;1680&quot; height=&quot;945&quot; src=&quot;https://www.youtube.com/embed/Efycc0QJvV8&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-02-smaller.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-03-smaller.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Final project for GSD6338 Introduction to Computational Design, Fall 2020.&lt;/p&gt;
 </description>

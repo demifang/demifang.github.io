@@ -4,10 +4,10 @@
     <title>Demi Fang</title>
     <description>Researcher working at the intersection of structural, architectural, and computational design; passionate about cultivating a more sustainable built environment.
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Dec 2020 11:47:31 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Dec 2020 11:47:31 -0500</lastBuildDate>
+    <link>demifang21.github.io</link>
+    <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Dec 2020 11:53:30 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Dec 2020 11:53:30 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,11 +22,11 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/flow-topology/1_concept-03-smaller.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Final project for GSD6338 Introduction to Computational Design, Fall 2020.&lt;/p&gt;
+&lt;p&gt;Final project for &lt;a href=&quot;https://gsd6338.org/fall2020/projects/topeval/index.html&quot;&gt;GSD6338 Introduction to Computational Design, Fall 2020&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Dec 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020/12/11/Flow-topology/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/12/11/Flow-topology/</guid>
+        <link>demifang21.github.io/2020/12/11/Flow-topology/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/12/11/Flow-topology/</guid>
         
         <category>computational design</category>
         
@@ -50,8 +50,8 @@
 &lt;p&gt;Final project for 4.453 Creative Machine Learning for Design, Spring 2020.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020/08/31/Quadratic/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/08/31/Quadratic/</guid>
+        <link>demifang21.github.io/2020/08/31/Quadratic/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/08/31/Quadratic/</guid>
         
         <category>computational design</category>
         
@@ -71,8 +71,8 @@
 &lt;p&gt;D. Fang, “Timber joinery in modern construction: Mechanical behavior of wood-wood connections,” M.S., Massachusetts Institute of Technology, Cambridge, MA, USA, 2020.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 May 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020/05/08/Timber-Joinery-Sust/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/05/08/Timber-Joinery-Sust/</guid>
+        <link>demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</guid>
         
         <category>timber</category>
         
@@ -105,8 +105,8 @@ Image composed by collaborators Aliz Fischer and Jan Brütting.&lt;/p&gt;
 &lt;p&gt;D. L. Fang, J. Moradei, J. Brütting, A. Fischer, D. K. Landez, B. Shao, N. Sherrow-Groves, C. Fivet, and C. T. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/336474081_Modern_timber_design_approaches_for_traditional_Japanese_architecture_analytical_experimental_and_numerical_approaches_for_the_Nuki_joint&quot;&gt;Modern timber design approaches for traditional Japanese architecture: analytical, experimental, and numerical approaches for the Nuki joint&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Barcelona, Spain, October 2019.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 May 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2020/05/08/Timber-Joinery-Mech/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/05/08/Timber-Joinery-Mech/</guid>
+        <link>demifang21.github.io/2020/05/08/Timber-Joinery-Mech/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/05/08/Timber-Joinery-Mech/</guid>
         
         <category>timber</category>
         
@@ -147,8 +147,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020/02/28/Pluma/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/02/28/Pluma/</guid>
+        <link>demifang21.github.io/2020/02/28/Pluma/</link>
+        <guid isPermaLink="true">demifang21.github.io/2020/02/28/Pluma/</guid>
         
         <category>timber</category>
         
@@ -172,8 +172,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
 &lt;p&gt;More information on the system available at &lt;b&gt;&lt;a href=&quot;https://www.architectmagazine.com/technology/som-tests-a-mass-timber-composite-system-for-high-rise-construction-and-explores-a-steel-option_o&quot;&gt;here&lt;/a&gt;&lt;/b&gt; and at the &lt;b&gt;&lt;a href=&quot;https://www.som.com/ideas/research/timber_tower_research_project&quot;&gt;SOM Timber Tower Research Project&lt;/a&gt;&lt;/b&gt;. Image by SOM.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2019/05/01/TMBR/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/01/TMBR/</guid>
+        <link>demifang21.github.io/2019/05/01/TMBR/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/05/01/TMBR/</guid>
         
         <category>structural performance</category>
         
@@ -189,8 +189,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
 &lt;p&gt;More information available at &lt;b&gt;&lt;a href=&quot;https://www.som.com/projects/800_west_fulton_market&quot;&gt;SOM&lt;/a&gt;&lt;/b&gt;. Image by SOM.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2019/04/01/800WFM/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/04/01/800WFM/</guid>
+        <link>demifang21.github.io/2019/04/01/800WFM/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/04/01/800WFM/</guid>
         
         <category>computational design</category>
         
@@ -202,8 +202,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
         <description>&lt;p&gt;Early-stage evaluation of several options for structural systems for a skyscraper. Effects on material weight and embodied carbon were studied. More information available at &lt;b&gt;&lt;a href=&quot;https://www.som.com/news/in_paris_an_international_team_will_lead_the_charenton-bercy_redevelopment_project&quot;&gt;SOM&lt;/a&gt;&lt;/b&gt;. Image by SOM.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/02/01/Charenton-Bercy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/01/Charenton-Bercy/</guid>
+        <link>demifang21.github.io/2019/02/01/Charenton-Bercy/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/02/01/Charenton-Bercy/</guid>
         
         <category>computational design</category>
         
@@ -229,8 +229,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
 &lt;p&gt;D. L. Fang, A. Arsano, N. Brown, C. Reinhart, C. Mueller, “&lt;a href=&quot;https://www.researchgate.net/publication/336473989_Design_space_exploration_for_high-performance_greenhouse_design&quot;&gt;Design space exploration for high-performance greenhouse design&lt;/a&gt;,” in Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Barcelona, Spain, October 2019.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/10/01/Greenhouse/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/10/01/Greenhouse/</guid>
+        <link>demifang21.github.io/2018/10/01/Greenhouse/</link>
+        <guid isPermaLink="true">demifang21.github.io/2018/10/01/Greenhouse/</guid>
         
         <category>computational design</category>
         
@@ -254,8 +254,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
 &lt;p&gt;External: &lt;a href=&quot;http://edwardmsegal.com/formfound/&quot;&gt;Segal Structures Group&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/05/01/formfound/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/01/formfound/</guid>
+        <link>demifang21.github.io/2018/05/01/formfound/</link>
+        <guid isPermaLink="true">demifang21.github.io/2018/05/01/formfound/</guid>
         
         <category>visuals</category>
         
@@ -275,8 +275,8 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
 &lt;p&gt;Project credits include: (Research Scientist) John Klein, (Design-Engineering Team) John Fechtel, Paul Short, Demi Fang, Andrew Brose, Hyerin Lee, Alexandre Beaudouin-Mackay. MIT Mass Timber Design was generously supported by MIT’s Department of Architecture, BuroHappold Engineering and Nova Concepts.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/12/01/Mass-Timber/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/01/Mass-Timber/</guid>
+        <link>demifang21.github.io/2017/12/01/Mass-Timber/</link>
+        <guid isPermaLink="true">demifang21.github.io/2017/12/01/Mass-Timber/</guid>
         
         <category>timber</category>
         
@@ -305,8 +305,8 @@ The Calvin Dodd MacCracken Senior Thesis/Project Award, Princeton SEAS (&lt;a hr
 David W. Carmichael Prize, Princeton CEE&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2017/06/01/Masonry-Stability/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/01/Masonry-Stability/</guid>
+        <link>demifang21.github.io/2017/06/01/Masonry-Stability/</link>
+        <guid isPermaLink="true">demifang21.github.io/2017/06/01/Masonry-Stability/</guid>
         
         <category>masonry</category>
         
@@ -341,8 +341,8 @@ David W. Carmichael Prize, Princeton CEE&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2016/08/01/Folded-Plate-Structures/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/01/Folded-Plate-Structures/</guid>
+        <link>demifang21.github.io/2016/08/01/Folded-Plate-Structures/</link>
+        <guid isPermaLink="true">demifang21.github.io/2016/08/01/Folded-Plate-Structures/</guid>
         
         <category>computational design</category>
         
@@ -378,8 +378,8 @@ David W. Carmichael Prize, Princeton CEE&lt;/p&gt;
 &lt;!--The model is also equipped with several LEDs at the front of its top layers; at night, these lights mimic the phenomenon at the entrance of the structure, filling the void of the freeform. The lights are programmed to gradually dim and fade according to the brightness outdoors as detected by the photocell installed elsewhere in the structure.--&gt;
 </description>
         <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2014/12/01/Foliage-Pavilion/</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/12/01/Foliage-Pavilion/</guid>
+        <link>demifang21.github.io/2014/12/01/Foliage-Pavilion/</link>
+        <guid isPermaLink="true">demifang21.github.io/2014/12/01/Foliage-Pavilion/</guid>
         
         <category>computational design</category>
         

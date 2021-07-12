@@ -6,27 +6,48 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Apr 2021 14:10:27 -0400</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 14:10:27 -0400</lastBuildDate>
+    <pubDate>Mon, 12 Jul 2021 10:18:35 -0400</pubDate>
+    <lastBuildDate>Mon, 12 Jul 2021 10:18:35 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>TopEval: flow-informed topology design</title>
-        <description>&lt;p&gt;One strategy for efficient structural design is to place material where it is most needed. Often, this structural demand can be visualized using a vector field across a continuum domain. For example, in the case of a beam under vertical point loads, the vector field of principal stress lines may inform a truss design across the same continuum domain (Allen and Zalewski 2010). Alternatively, in the case of a floor system under uniformly distributed load, the vector field of principal bending moment may inform a topology of floor ribs (Gatti Wool Factory, 1953, by Pier Luigi Nervi).&lt;/p&gt;
+        <title>Flow-informed topology design</title>
+        <description>&lt;p&gt;An alternate geometric method to facilitate designing with “force flow”.&lt;/p&gt;
 
-&lt;p&gt;Both instances demonstrate the value of a metric that summarizes a topology’s conformity with a given stress field in early-stage structural design. While structural topologies might conventionally be evaluated using structural analysis, this approach is a geometric one. TopEval is a Grasshopper component that calculates a topology’s conformity to a vector field, enabling live feedback during design. With TopEval and an effective visualization workflow, designers can both compare and improve structural topologies during early-stage design without the need for iterative structural analysis.&lt;/p&gt;
+&lt;p&gt;Principles and precedents in efficient structural design demonstrate the advantage of designing topologies that align well with an underlying vector field, such as principal stress or principal bending moment (Allen and Zalewski 2010; Gatti Wool Factory, 1953, by Pier Luigi Nervi).&lt;/p&gt;
 
-&lt;iframe width=&quot;1680&quot; height=&quot;945&quot; src=&quot;https://www.youtube.com/embed/Efycc0QJvV8&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;While there now exist methods and mature research fields for generating topologies from those underlying vector fields, an alternate approach is proposed where the designer receives visual feedback on a topology’s geometric conformity with the vector field of interest during the design process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/TopEval/1_concept-02-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The calculation of a conformity heuristic is proposed.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/TopEval/1_concept-03-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/TopEval/formulation diagram_formulation2_portrait.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Final project for &lt;a href=&quot;https://gsd6338.org/fall2020/projects/topeval/index.html&quot;&gt;GSD6338 Introduction to Computational Design, Fall 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The conformity heuristic is compared to the actual structural performance of topologies in a variety of structural design problems. The results demonstrate a general correlation between the conformity heuristic and structural efficiency.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/TopEval/results_overview_animate.gif&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/TopEval/results_gridshell2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Presented use cases demonstrate the value of the conformity heuristic over finite element analysis in evaluating intermediate design steps. The interactive and visual feedback provided by conformity make it a valuable new concept to harness the structural intuition of designing with force flow in early-stage conceptual design.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/noUUy6er3Iw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oBamVxZ_2dE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!-- &lt;iframe width=&quot;1680&quot; height=&quot;945&quot; src=&quot;https://www.youtube.com/embed/Efycc0QJvV8&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; --&gt;
+
+&lt;!-- ![](/assets/images/TopEval/1_concept-02-small.png) --&gt;
+
+&lt;!--![](/assets/images/TopEval/1_concept-03-small.png) --&gt;
+
+&lt;p&gt;Parts of the algorithm and visualization were developed as a final project for &lt;a href=&quot;https://gsd6338.org/fall2020/projects/topeval/index.html&quot;&gt;GSD6338 Introduction to Computational Design, Fall 2020&lt;/a&gt;, taught by Jose Luis Garcia del Castillo Lopez.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Fang, Demi&lt;/b&gt;, and Caitlin Mueller. 2021. “Flow-Informed Topology Design: Evaluating the Conformity of Structural Topologies with Vector Fields.” In &lt;i&gt;Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium&lt;/i&gt;. Surrey, UK.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Dec 2020 00:00:00 -0500</pubDate>
-        <link>demifang21.github.io/2020/12/11/Flow-topology/</link>
-        <guid isPermaLink="true">demifang21.github.io/2020/12/11/Flow-topology/</guid>
+        <pubDate>Mon, 12 Jul 2021 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2021/07/12/Flow-topology/</link>
+        <guid isPermaLink="true">demifang21.github.io/2021/07/12/Flow-topology/</guid>
         
         <category>computational design</category>
         
@@ -68,7 +89,7 @@
 
 &lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;D. Fang, “Timber joinery in modern construction: Mechanical behavior of wood-wood connections,” M.S., Massachusetts Institute of Technology, Cambridge, MA, USA, 2020.&lt;/p&gt;
+&lt;p&gt;Fang, Demi. 2020. “Timber Joinery in Modern Construction: Mechanical Behavior of Wood-Wood Connections.” M.S., Cambridge, MA, USA: Massachusetts Institute of Technology. &lt;a href=&quot;https://dspace.mit.edu/handle/1721.1/127868&quot;&gt;https://dspace.mit.edu/handle/1721.1/127868&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 May 2020 00:00:00 -0400</pubDate>
         <link>demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</link>

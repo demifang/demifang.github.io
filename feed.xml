@@ -6,8 +6,8 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Jul 2021 10:18:35 -0400</pubDate>
-    <lastBuildDate>Mon, 12 Jul 2021 10:18:35 -0400</lastBuildDate>
+    <pubDate>Fri, 13 Aug 2021 16:04:19 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Aug 2021 16:04:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -182,6 +182,31 @@ Renders by collaborator Mohamed Ismail.&lt;/p&gt;
         <category>design space</category>
         
         <category>sustainability</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Conversation Bench</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/conversation-bench/IMG_9096.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/conversation-bench/190910-animation-accel.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the design team at SOM Chicago for the design of a seat fabricated with one sweep of a robotic arm. Demonstration of no-waste manufacture of formwork for the Stereoform Slab. Fabricated by Bridgewater Studio and installed in the Drawing Room of the Chicago Athletic Association, September 2019 for the Chicago Architecture Biennial.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/conversation-bench/SOM Formwork CAA Postcard_6x4_Page_1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/images/conversation-bench/SOM Formwork CAA Postcard_6x4_Page_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;External links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.som.com/news/explore_the_future_of_building_design_and_technology_with_som_at_the_2019_chicago_architecture_biennial&quot;&gt;SOM News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chicagoathleticevents.com/tc-events/conversation-bench/&quot;&gt;Chicago Athletic Association&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2019/09/01/Conversation-bench/</link>
+        <guid isPermaLink="true">demifang21.github.io/2019/09/01/Conversation-bench/</guid>
+        
+        <category>computational design</category>
         
         
       </item>

@@ -6,9 +6,32 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Dec 2021 11:59:06 -0500</pubDate>
-    <lastBuildDate>Fri, 17 Dec 2021 11:59:06 -0500</lastBuildDate>
+    <pubDate>Tue, 21 Dec 2021 12:30:03 -0500</pubDate>
+    <lastBuildDate>Tue, 21 Dec 2021 12:30:03 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sustainability of joinery in modern timber construction</title>
+        <description>&lt;p&gt;What quantifiable benefits might be associated with switching from metallic fastener connections to all-timber joinery connections in modern timber construction?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Timber-Joinery/beam analysis_02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Fang, Demi L., and Caitlin Mueller. 2021. “Mortise-and-tenon joinery for modern timber construction: Quantifying the embodied carbon of an alternative structural connection.” &lt;i&gt;Architecture, Structures and Construction&lt;/i&gt;. &lt;a href=&quot;https://doi.org/10.1007/s44150-021-00018-5&quot;&gt;https://doi.org/10.1007/s44150-021-00018-5&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fang, Demi L. 2020. “Timber Joinery in Modern Construction: Mechanical Behavior of Wood-Wood Connections.” M.S., Cambridge, MA, USA: Massachusetts Institute of Technology. &lt;a href=&quot;https://dspace.mit.edu/handle/1721.1/127868&quot;&gt;https://dspace.mit.edu/handle/1721.1/127868&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Dec 2021 00:00:00 -0500</pubDate>
+        <link>demifang21.github.io/2021/12/21/Timber-Joinery-Sust/</link>
+        <guid isPermaLink="true">demifang21.github.io/2021/12/21/Timber-Joinery-Sust/</guid>
+        
+        <category>timber</category>
+        
+        <category>sustainability</category>
+        
+        
+      </item>
     
       <item>
         <title>Flow-informed topology design</title>
@@ -77,27 +100,6 @@
         <category>computational design</category>
         
         <category>machine learning</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Sustainability of joinery in modern timber construction</title>
-        <description>&lt;p&gt;What quantifiable benefits might be associated with switching from metallic fastener connections to all-timber joinery connections in modern timber construction?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/Timber-Joinery/EC comparison_EC comparison_small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Fang, Demi. 2020. “Timber Joinery in Modern Construction: Mechanical Behavior of Wood-Wood Connections.” M.S., Cambridge, MA, USA: Massachusetts Institute of Technology. &lt;a href=&quot;https://dspace.mit.edu/handle/1721.1/127868&quot;&gt;https://dspace.mit.edu/handle/1721.1/127868&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 May 2020 00:00:00 -0400</pubDate>
-        <link>demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</link>
-        <guid isPermaLink="true">demifang21.github.io/2020/05/08/Timber-Joinery-Sust/</guid>
-        
-        <category>timber</category>
-        
-        <category>sustainability</category>
         
         
       </item>

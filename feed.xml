@@ -6,9 +6,36 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2023 23:12:23 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2023 23:12:23 -0500</lastBuildDate>
+    <pubDate>Wed, 24 May 2023 23:31:28 -0400</pubDate>
+    <lastBuildDate>Wed, 24 May 2023 23:31:28 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Quantifying the influence of continuous and discrete design decisions using sensitivities</title>
+        <description>&lt;p&gt;Early-stage design decisions have a large impact on the performance of buildings. Especially the case of mixed (continuous and discrete) design variables can complicate human and computer understandings of how individual choices contribute to performance, in both in both direction and intensity. We propose a new approach upon conditional variational autoencoders and sensitivity analysis for assessing the influence of mixed variables on performance and test in on a gridshell design problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Model data:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Visit this &lt;b&gt;&lt;a href=&quot;https://api.wandb.ai/links/ml-design-decisions/16z411ga&quot;&gt;Weights &amp;amp; Biases project page&lt;/a&gt;&lt;/b&gt; for interactive details about the hyperparameters of the trained model.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cVAE-gridshell-influence/hyperparameters snapshot.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;D. Fang, S. V. Kuhn, M. A. Kraus, and C. Mueller, “Quantifying the influence of continuous and discrete design decisions using sensitivities,” in Advances in Architectural Geometry 2023, Stuttgart, Germany, Oct. 2023.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 May 2023 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2023/05/23/cvae-gridshells-influence/</link>
+        <guid isPermaLink="true">demifang21.github.io/2023/05/23/cvae-gridshells-influence/</guid>
+        
+        <category>sustainability</category>
+        
+        <category>structural performance</category>
+        
+        <category>computational design</category>
+        
+        
+      </item>
     
       <item>
         <title>Strategies to reduce embodied carbon in early-stage structural design</title>

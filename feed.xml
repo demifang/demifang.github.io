@@ -6,8 +6,8 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 May 2023 01:14:53 -0400</pubDate>
-    <lastBuildDate>Tue, 30 May 2023 01:14:53 -0400</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 14:41:59 -0400</pubDate>
+    <lastBuildDate>Fri, 09 Jun 2023 14:41:59 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -85,7 +85,9 @@ This confusion matrix shows a perfect reconstruction of all test points, as all 
         <title>Strategies to reduce embodied carbon in early-stage structural design</title>
         <description>&lt;p&gt;What strategies exist for reducing embodied carbon in early-stage structural design? How do those strategies compare in literature availability, impact, and implementability?&lt;/p&gt;
 
-&lt;p&gt;Publication in preparation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;D. Fang, N. Brown, C. De Wolf, and C. Mueller, “Reducing embodied carbon in structural systems: a review of early-stage design strategies,” &lt;i&gt;Journal of Building Engineering&lt;/i&gt;, in press.&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Oct 2022 00:00:00 -0400</pubDate>
         <link>demifang21.github.io/2022/10/30/Low-EC-Strategies/</link>

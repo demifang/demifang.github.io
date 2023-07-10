@@ -6,9 +6,28 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jun 2023 14:41:59 -0400</pubDate>
-    <lastBuildDate>Fri, 09 Jun 2023 14:41:59 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2023 09:21:12 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2023 09:21:12 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Strategies to reduce embodied carbon in early-stage structural design</title>
+        <description>&lt;p&gt;What strategies exist for reducing embodied carbon in early-stage structural design? How do those strategies compare in literature availability, impact, and implementability?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;D. Fang, N. Brown, C. De Wolf, and C. Mueller, “Reducing embodied carbon in structural systems: A review of early-stage design strategies,” &lt;i&gt;Journal of Building Engineering&lt;/i&gt;, vol. 76, p. 107054, Oct. 2023, doi: &lt;a href=&quot;&quot;&gt;10.1016/j.jobe.2023.107054&lt;/a&gt;. &lt;b&gt;Available free before August 25, 2023 at the following link: &lt;a href=&quot;&quot;&gt;https://authors.elsevier.com/a/1hNBa8MyS96Y7g&lt;/a&gt; &lt;/b&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Jul 2023 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2023/07/06/Low-EC-Strategies/</link>
+        <guid isPermaLink="true">demifang21.github.io/2023/07/06/Low-EC-Strategies/</guid>
+        
+        <category>sustainability</category>
+        
+        <category>structural performance</category>
+        
+        
+      </item>
     
       <item>
         <title>Quantifying the influence of continuous and discrete design decisions using sensitivities</title>
@@ -77,25 +96,6 @@ This confusion matrix shows a perfect reconstruction of all test points, as all 
         <category>structural performance</category>
         
         <category>computational design</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Strategies to reduce embodied carbon in early-stage structural design</title>
-        <description>&lt;p&gt;What strategies exist for reducing embodied carbon in early-stage structural design? How do those strategies compare in literature availability, impact, and implementability?&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;D. Fang, N. Brown, C. De Wolf, and C. Mueller, “Reducing embodied carbon in structural systems: a review of early-stage design strategies,” &lt;i&gt;Journal of Building Engineering&lt;/i&gt;, in press.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Oct 2022 00:00:00 -0400</pubDate>
-        <link>demifang21.github.io/2022/10/30/Low-EC-Strategies/</link>
-        <guid isPermaLink="true">demifang21.github.io/2022/10/30/Low-EC-Strategies/</guid>
-        
-        <category>sustainability</category>
-        
-        <category>structural performance</category>
         
         
       </item>

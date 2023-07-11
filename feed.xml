@@ -6,17 +6,21 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jul 2023 09:21:12 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2023 09:21:12 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2023 23:31:17 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2023 23:31:17 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Strategies to reduce embodied carbon in early-stage structural design</title>
-        <description>&lt;p&gt;What strategies exist for reducing embodied carbon in early-stage structural design? How do those strategies compare in literature availability, impact, and implementability?&lt;/p&gt;
+        <description>&lt;p&gt;While many strategies have been identified and proposed for reducing embodied carbon in early-stage structural design, they are rarely synthesized to discuss their relative effectiveness and compatibility. Discussing the strategies together rather than individually is important because not all strategies are equally effective or can be implemented simultaneously.&lt;/p&gt;
+
+&lt;p&gt;This paper presents a synthesized discussion by clarifying a network of design strategies for reducing embodied carbon in structural systems, supported by a literature review. Existing guides for embodied carbon reduction are typically written by practitioners; this paper enhances them by examining patterns in academic literature to both support the plurality of known strategies and identify those that are overlooked or underutilized. Using quantitative meta-analyses and qualitative assessments of the literature, the strategies are evaluated for literature prevalence and origins, advantages and limitations, novelty, and compatibility. The results help designers understand which strategies can be immediately prioritized for reducing the adverse environmental effects of building structures, while documenting state-of-the-art research of each strategy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/low-EC-strategies/graphical abstract.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;D. Fang, N. Brown, C. De Wolf, and C. Mueller, “Reducing embodied carbon in structural systems: A review of early-stage design strategies,” &lt;i&gt;Journal of Building Engineering&lt;/i&gt;, vol. 76, p. 107054, Oct. 2023, doi: &lt;a href=&quot;&quot;&gt;10.1016/j.jobe.2023.107054&lt;/a&gt;. &lt;b&gt;Available free before August 25, 2023 at the following link: &lt;a href=&quot;&quot;&gt;https://authors.elsevier.com/a/1hNBa8MyS96Y7g&lt;/a&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;D. Fang, N. Brown, C. De Wolf, and C. Mueller, “Reducing embodied carbon in structural systems: A review of early-stage design strategies,” &lt;i&gt;Journal of Building Engineering&lt;/i&gt;, vol. 76, p. 107054, Oct. 2023, doi: &lt;a href=&quot;https://doi.org/10.1016/j.jobe.2023.107054&quot;&gt;10.1016/j.jobe.2023.107054&lt;/a&gt;. &lt;b&gt;Available free before August 25, 2023 at the following link: &lt;a href=&quot;https://authors.elsevier.com/a/1hNBa8MyS96Y7g&quot;&gt;https://authors.elsevier.com/a/1hNBa8MyS96Y7g&lt;/a&gt; &lt;/b&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Jul 2023 00:00:00 -0400</pubDate>
         <link>demifang21.github.io/2023/07/06/Low-EC-Strategies/</link>

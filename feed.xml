@@ -6,8 +6,8 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Jul 2023 15:11:32 -0400</pubDate>
-    <lastBuildDate>Tue, 11 Jul 2023 15:11:32 -0400</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 16:36:06 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2023 16:36:06 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -24,7 +24,7 @@
 
 &lt;p&gt;D. Fang, N. Brown, C. De Wolf, and C. Mueller, “Reducing embodied carbon in structural systems: A review of early-stage design strategies,” &lt;i&gt;Journal of Building Engineering&lt;/i&gt;, vol. 76, p. 107054, Oct. 2023, doi: &lt;a href=&quot;https://doi.org/10.1016/j.jobe.2023.107054&quot;&gt;10.1016/j.jobe.2023.107054&lt;/a&gt;. &lt;b&gt;Available free before August 25, 2023 at the following link: &lt;a href=&quot;https://authors.elsevier.com/a/1hNBa8MyS96Y7g&quot;&gt;https://authors.elsevier.com/a/1hNBa8MyS96Y7g&lt;/a&gt; &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;SE2050, “Design Guidance for Reducing Embodied Carbon in Structural Systems,” July 2023. &lt;a href=&quot;https://se2050.org/resources-overview/structural-materials/lean-design-guidance/&quot;&gt;https://se2050.org/resources-overview/structural-materials/lean-design-guidance/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;SE 2050 Subcommittee, “Design Guidance for Reducing Embodied Carbon in Structural Systems,” July 2023. &lt;a href=&quot;https://se2050.org/resources-overview/structural-materials/lean-design-guidance/&quot;&gt;https://se2050.org/resources-overview/structural-materials/lean-design-guidance/&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Jul 2023 00:00:00 -0400</pubDate>
         <link>demifang21.github.io/2023/07/06/Low-EC-Strategies/</link>
@@ -41,55 +41,7 @@
         <title>Quantifying the influence of continuous and discrete design decisions using sensitivities</title>
         <description>&lt;p&gt;Early-stage design decisions have a large impact on the performance of buildings. Especially the case of mixed (continuous and discrete) design variables can complicate human and computer understandings of how individual choices contribute to performance, in both in both direction and intensity. We propose a new approach upon conditional variational autoencoders and sensitivity analysis for assessing the influence of mixed variables on performance and test in on a gridshell design problem.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;About the cVAE model&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;The optimal widths I for each MLP block were determined through empirical testing and found to be [64, 32, 16] for both the encoder and decoder. This indicates that the problem at hand is moderately complex and the accumulated parameters are significant.&lt;/p&gt;
-
-&lt;p&gt;Model performance on test set:&lt;/p&gt;
-
-&lt;p&gt;Model information:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;L_total&lt;/script&gt;
-
-&lt;p&gt;a) predictive capabilities in embodied carbon
-&lt;img src=&quot;/assets/images/cVAE-gridshell-influence/EmbodiedCarbon_True values_Predicted values_scatterplot.png&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
-The predictions are accurate, as demonstrated by the bulk of data points falling on the diagonal. The prediction’s standard deviation varies based on the target quantity, and the prediction intervals are realistic.&lt;/p&gt;
-
-&lt;p&gt;b) confusion matrix for topology
-&lt;img src=&quot;/assets/images/cVAE-gridshell-influence/Topology_confusion_matrix.png&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
-This confusion matrix shows a perfect reconstruction of all test points, as all predicted topologies match the original topologies.&lt;/p&gt;
-
-&lt;p&gt;To facilitate human interpretation, the latent space is assigned to be two-dimensional. The loss term weights are set to &lt;code class=&quot;highlighter-rouge&quot;&gt;w_1 = 1&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;w_2 = 3&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;w_3 = 0.1&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;w_4 = 0.01&lt;/code&gt;. The effect of &lt;code class=&quot;highlighter-rouge&quot;&gt;w_3&lt;/code&gt; can be observed by visually inspecting the latent space and coloring the points based on their y value. If the distribution is not normal, &lt;code class=&quot;highlighter-rouge&quot;&gt;w_3&lt;/code&gt; should be increased. Similarly, if there are correlations between &lt;code class=&quot;highlighter-rouge&quot;&gt;z&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;y&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;w_4&lt;/code&gt; should be increased.&lt;/p&gt;
-
-&lt;p&gt;Visualization of the latent space, with the points colored according to their respective cost:&lt;/p&gt;
-
-&lt;p&gt;a) density
-&lt;img src=&quot;/assets/images/cVAE-gridshell-influence/Density_Latent dimension 0_Latent dimension 1_scatterplot.png&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;b) embodied carbon
-&lt;img src=&quot;/assets/images/cVAE-gridshell-influence/Embodied Carbon_Latent dimension 0_Latent dimension 1_scatterplot.png&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Visit this &lt;b&gt;&lt;a href=&quot;https://api.wandb.ai/links/ml-design-decisions/16z411ga&quot;&gt;Weights &amp;amp; Biases project page&lt;/a&gt;&lt;/b&gt; for interactive details about the hyperparameters of the trained model.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/cVAE-gridshell-influence/hyperparameters snapshot.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Engineering assumptions for the case study&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Steel material properties:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Strength: 23.5 kN/cm2&lt;/li&gt;
-  &lt;li&gt;Modulus of elasticity E: 21,000 kN/cm2&lt;/li&gt;
-  &lt;li&gt;Specific weight: 78.5 kN/m3&lt;/li&gt;
-  &lt;li&gt;Embodied carbon coefficient: 1.23 kg CO2e/kg&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Timber material properties:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Strength: 1.3 kN/cm2&lt;/li&gt;
-  &lt;li&gt;Modulus of elasticity E: 1050 kN/cm2&lt;/li&gt;
-  &lt;li&gt;Specific weight: 6.0 kN/m3&lt;/li&gt;
-  &lt;li&gt;Embodied carbon coefficient: 0.51 kg CO2e/kg&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/AAG2023&quot;&gt;Appendix&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
 

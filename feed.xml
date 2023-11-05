@@ -6,9 +6,34 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Aug 2023 23:53:44 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2023 23:53:44 -0400</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2023 16:14:36 -0500</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2023 16:14:36 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Quantifying the influence of continuous and discrete design decisions using sensitivities</title>
+        <description>&lt;p&gt;Early-stage design decisions have a large impact on the performance of buildings. Especially the case of mixed (continuous and discrete) design variables can complicate human and computer understandings of how individual choices contribute to performance, in both direction and intensity. We propose a new approach upon conditional variational autoencoders and sensitivity analysis for assessing the influence of mixed variables on performance and test in on a gridshell design problem.&lt;/p&gt;
+
+&lt;p&gt;In response, we propose a new approach for assessing the influence of mixed variables on performance based on variable sensitivities, with a focus on architectural applications… Both local and global insights are attainable: 1) the method computes the influence of design decisions at a design instance of interest, and 2) local results can be aggregated to summarize variable influence in the global design space. The method is demonstrated on gridshell structures parameterized with continuous and discrete variables and assessed in terms of embodied carbon.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/AAG2023&quot;&gt;Appendix&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;D. Fang, S. V. Kuhn, W. Kaufmann, M. A. Kraus, and C. Mueller, “Quantifying the influence of continuous and discrete design decisions using sensitivities,” in Advances in Architectural Geometry 2023, Stuttgart, Germany, Oct. 2023. &lt;a href=&quot;https://doi.org/10.1515/9783111162683-031&quot;&gt;https://doi.org/10.1515/9783111162683-031&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2023 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2023/10/10/cvae-gridshell-influence/</link>
+        <guid isPermaLink="true">demifang21.github.io/2023/10/10/cvae-gridshell-influence/</guid>
+        
+        <category>sustainability</category>
+        
+        <category>structural performance</category>
+        
+        <category>computational design</category>
+        
+        
+      </item>
     
       <item>
         <title>The Chair Laboratory: A case study on structural reuse</title>
@@ -34,9 +59,9 @@ Photos by Dylan Iwakuni, graphic by Demi Fang&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
-        <link>demifang21.github.io/2023/08/08/Chair-Laboratory/</link>
-        <guid isPermaLink="true">demifang21.github.io/2023/08/08/Chair-Laboratory/</guid>
+        <pubDate>Sun, 10 Sep 2023 00:00:00 -0400</pubDate>
+        <link>demifang21.github.io/2023/09/10/Chair-Laboratory/</link>
+        <guid isPermaLink="true">demifang21.github.io/2023/09/10/Chair-Laboratory/</guid>
         
         <category>sustainability</category>
         
@@ -70,31 +95,6 @@ Photos by Dylan Iwakuni, graphic by Demi Fang&lt;/p&gt;
         <category>sustainability</category>
         
         <category>structural performance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Quantifying the influence of continuous and discrete design decisions using sensitivities</title>
-        <description>&lt;p&gt;Early-stage design decisions have a large impact on the performance of buildings. Especially the case of mixed (continuous and discrete) design variables can complicate human and computer understandings of how individual choices contribute to performance, in both direction and intensity. We propose a new approach upon conditional variational autoencoders and sensitivity analysis for assessing the influence of mixed variables on performance and test in on a gridshell design problem.&lt;/p&gt;
-
-&lt;p&gt;In response, we propose a new approach for assessing the influence of mixed variables on performance based on variable sensitivities, with a focus on architectural applications… Both local and global insights are attainable: 1) the method computes the influence of design decisions at a design instance of interest, and 2) local results can be aggregated to summarize variable influence in the global design space. The method is demonstrated on gridshell structures parameterized with continuous and discrete variables and assessed in terms of embodied carbon.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/AAG2023&quot;&gt;Appendix&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Related publications:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;D. Fang, S. V. Kuhn, W. Kaufmann, M. A. Kraus, and C. Mueller, “Quantifying the influence of continuous and discrete design decisions using sensitivities,” in Advances in Architectural Geometry 2023, Stuttgart, Germany, Oct. 2023. &lt;a href=&quot;https://doi.org/10.1515/9783111162683-031&quot;&gt;https://doi.org/10.1515/9783111162683-031&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 May 2023 00:00:00 -0400</pubDate>
-        <link>demifang21.github.io/2023/05/23/cvae-gridshell-influence/</link>
-        <guid isPermaLink="true">demifang21.github.io/2023/05/23/cvae-gridshell-influence/</guid>
-        
-        <category>sustainability</category>
-        
-        <category>structural performance</category>
-        
-        <category>computational design</category>
         
         
       </item>

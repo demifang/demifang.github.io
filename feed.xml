@@ -6,13 +6,15 @@
 </description>
     <link>demifang21.github.io</link>
     <atom:link href="demifang21.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Mar 2024 12:20:48 -0400</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2024 12:20:48 -0400</lastBuildDate>
+    <pubDate>Sun, 31 Mar 2024 13:53:59 -0400</pubDate>
+    <lastBuildDate>Sun, 31 Mar 2024 13:53:59 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Trans-typology design space exploration using gradients</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/images/spanning-typs/sample7-designs-animate.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Does a timber beam or a steel truss result in a lighter structure? Between shortening the span and decreasing the load demand, which results in a more efficient structure?&lt;/p&gt;
 
 &lt;p&gt;Structural designers pursuing high-performance design must typically make decisions based on perceived tradeoffs. As an alternative to the extreme paradigms of deploying rules of thumb and blackbox optimization, a new paradigm of “performance-informed, human-driven design” is proposed in which designers extract data-driven insights from a provided design space to inform decision-making. The four-step computational framework entails selecting a sample representative of the design space of interest, training a machine learning model, computing gradients of the model, and computing influence metrics. Applied to the case study of a long-span structure, this paper demonstrates how this gradient-based approach can offer a data-driven way to support and augment intuitions about performance-driven design. Choice of structural typology is demonstrated to be most associated with large changes of GWP. While this insight is specific to this particular long-span design problem, its significance lies in showcasing how decision-making insights tailored to specific problems can be derived from intricate mixed-variable design domains. This outcome underscores the potency of such approaches in informing system-level design processes for low-carbon structures.&lt;/p&gt;
 
@@ -24,7 +26,7 @@
   &lt;li&gt;&lt;b&gt;Fang, Demi&lt;/b&gt;, Peter Wang, Sophia V. Kuhn, Michael A. Kraus, and Caitlin Mueller. “Trans-Typology Design Space Exploration: Using Gradients to Inform Decision-Making in the Design of Spanning Structures.” In Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium. Zurich, Switzerland, abstract accepted and paper under review.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/iass2024&quot;&gt;Digital appendix&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/spanning-typs-2024&quot;&gt;Digital appendix&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Mar 2024 00:00:00 -0400</pubDate>
         <link>demifang21.github.io/2024/03/30/Spanning-typologies/</link>
